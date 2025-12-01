@@ -1,0 +1,19 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	valor := 1
+
+	if valor == 1 {
+
+		fmt.Println("Valor é igual a 1")
+
+	} else {
+
+		fmt.Println("Valor não é igual a 1")
+
+	}
+
+}
