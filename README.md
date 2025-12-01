@@ -7,7 +7,7 @@ Este repositório é meu laboratório pessoal e principal ponto de prática para
 ## Clone o repositório:
 
  🤖Bash :
-- git clone https://github.com/danrodsg/https://github.com/danrodsg/estudos-go.git
+- git clone https://github.com/danrodsg/estudos-go.git
 - cd https://github.com/danrodsg/estudos-go.git
 
 Execute um arquivo de exemplo: Para executar qualquer arquivo Go (.go), navegue até o diretório desejado e use o comando go run:
